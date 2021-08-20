@@ -1,0 +1,4 @@
+jolokia
+java
+config
+ejb-tx-recovery

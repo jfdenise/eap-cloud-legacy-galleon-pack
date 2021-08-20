@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<installation xmlns="urn:jboss:galleon:provisioning:3.0">
+    <feature-pack location="org.jboss.eap:eap-cloud-legacy-galleon-pack:7.4.0.SP1">
+        <default-configs inherit="false">
+            <include model="standalone" name="standalone.xml"/>
+        </default-configs>
+    </feature-pack>
+</installation>
